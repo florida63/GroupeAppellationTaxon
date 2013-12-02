@@ -4,14 +4,17 @@
 1011	  Bathyomphalus
 1012	  Bathyomphalus contortus
 
-1015	  Gyraulus	Planorbidae
-
-1016	  Armiger	Planorbidae
-
-1020	  Hippeutis	Planorbidae
-1021	  Hippeutis complanata
-
+1015	  Gyraulus
+3039	  Gyraulus albus
+31048   Gyraulus crista
+1016	  Armiger
+1017	  Armiger crista            S
+1020	  Hippeutis
+1021	  Hippeutis complanatus      
+25795   Hippeutis complanata      S
 1024	  Planorbis
-
+3041	  Planorbis carinatus
+3043	  Planorbis moquini
+3042	  Planorbis planorbis
 1025	  Menetus
 1026	  Menetus dilatatus
