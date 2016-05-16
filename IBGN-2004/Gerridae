@@ -1,0 +1,23 @@
+Gerridae
+  734: Gerridae
+  41753: Aquarius
+  # 'Aquarius cinereus'
+  31760: 'Aquarius najas'
+  2731: 'Gerris najas'
+  # 'Aquarius paludum' non codé
+  # 'Aquarius paludum paludum' non codé
+  2733: 'Gerris paladum'
+   20440: Limnogonus
+  32601: 'Limnogonus cereiventris'
+  735: Gerris
+  2727: 'Gerris argentatus'
+  # Gerris asper non codé
+  # Gerris costae costae non codé
+  # Gerris costae poissoni non codé
+  2728: 'Gerris gibbifer'
+  2729: 'Gerris lacustris'
+  2730: 'Gerris lateralis'
+  # Gerris maculatus non codé
+  2732: Gerris odontogaster
+  # 3153: Gerris rufoscutelatus ?
+  2734: Gerris thoracicus
