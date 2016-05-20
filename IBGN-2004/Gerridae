@@ -11,9 +11,10 @@ Gerridae
   32601: 'Limnogonus cereiventris'
   735: Gerris
   2727: 'Gerris argentatus'
-  # Gerris asper non codé
+  41764: 'Gerris asper'
+  41765: 'Gerris costae'
   # Gerris costae costae non codé
-  # Gerris costae poissoni non codé
+  41766: 'Gerris costae poissoni'
   2728: 'Gerris gibbifer'
   2729: 'Gerris lacustris'
   2730: 'Gerris lateralis'
