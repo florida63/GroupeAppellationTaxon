@@ -7,13 +7,14 @@ Corixidae:
   41757: 'Sigara limitata remyi'
   20396: 'Micronectinae'
   719: 'Micronecta'
-  # 'Micronecta griseola' non codé
-  # 'Micronecta leucocephala' non codé
+  41759: 'Micronecta griseola'
+  41760: 'Micronecta leucocephala'
   # 2709: 'Micronecta meridionalis' a vérifier 
-  # 'Micronecta minuscula' non codé
+  41761: 'Micronecta minuscula'
   2710: 'Micronecta minutissima'
   2711: 'Micronecta poweri'
-  # 'Micronecta scholtzi'
+  41763: 'Micronecta poweri poweri'
+  41762: 'Micronecta scholtzi'
   20578: 'Cymatiinae'
   718: Cymatia
   2706: Cymatia bonsdorffi
