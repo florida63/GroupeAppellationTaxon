@@ -1,6 +1,21 @@
 Corixidae:
   709: 'Corixidae'
   5196: 'Corixinae'
+  710: Arctocorisa
+  711: 'Arctocorisa carinata'
+  # Arctocorisa carinata carinata non codé
+  2712: Callicorixa
+  712: Corixa
+  5155: Glaenocorisa
+  20360: 'Glaenocorisa propinqua'
+  # Glaenocorisa propinqua propinqua non codé
+  3187: Heliocorisa
+  3188: 'Heliocorisa vermiculata'
+  713: Hesperocorixa
+  714: Paracorixa
+  715: Paracorixa concinna
+  # Paracorixa concinna concinna non codé
+  717: Parasigara
   716: Sigara
   2697: 'Sigara limitata'
   41758: 'Sigara limitata limitata'
